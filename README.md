@@ -1,1 +1,1 @@
-# learning_pytorch
+# learning_python
