@@ -1,6 +1,7 @@
 .vscode/
 .env
 .ipynb_checkpoints/
+data/
 **/__pycache__
 .history/
 *.html
